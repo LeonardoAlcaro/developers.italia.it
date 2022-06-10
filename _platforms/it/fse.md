@@ -114,7 +114,9 @@ resources:
 
 ## Intro (da cambiare)
 
-La Certificazione verde COVID-19 è una certificazione in formato digitale e stampabile, emessa dal Ministero della Salute, che contiene un codice a barre bidimensionale (QR Code) e un sigillo elettronico qualificato per verificarne autenticità e validità. L’autenticità e validità della certificazione sono verificate in Italia attraverso l'applicazione mobile ufficiale *VerificaC19*.
+Il fascicolo sanitario elettronico (FSE) e' l'insieme dei dati e documenti digitali di tipo sanitario  e  sociosanitario  generati  da
+eventi clinici presenti e trascorsi, riguardanti l'assistito
+
 
 **La Certificazione viene rilasciata a seguito dei seguenti eventi clinici:**
 
